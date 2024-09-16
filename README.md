@@ -37,7 +37,7 @@ The following settings are available in (`Settings` -> `Advanced Settings Editor
 ### Sample
 ```json
 {
-    maxCellWidth: "80%"
+    "maxCellWidth": "80%"
 }
 ```
 
